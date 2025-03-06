@@ -1,7 +1,7 @@
 <!-- This is markdown for your README.md -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b3061c10-887b-48e6-9cc5-8ff01164b54e" alt="AI/ML Engineering Leader" width="100%">
+  <img src="https://github.com/user-attachments/assets/b3061c10-887b-48e6-9cc5-8ff01164b54e" alt="AI/ML Engineering Leader" style="width:100%; max-height:200px; object-fit:cover;">
   <!-- This would be a custom banner with data visualization elements and AI themes -->
 </div>
 <h1 align="center">Hi 👋, I'm Sunny Patneedi</h1>
