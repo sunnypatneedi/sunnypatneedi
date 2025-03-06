@@ -1,6 +1,7 @@
 <!-- This is markdown for your README.md -->
+
 <div align="center">
-  <img src="banner-image-url.png" alt="AI/ML Engineering Leader" width="100%">
+  <img src="https://github.com/user-attachments/assets/b3061c10-887b-48e6-9cc5-8ff01164b54e" alt="AI/ML Engineering Leader" width="100%">
   <!-- This would be a custom banner with data visualization elements and AI themes -->
 </div>
 <h1 align="center">Hi 👋, I'm Sunny Patneedi</h1>
@@ -24,8 +25,7 @@ Currently fascinated by:
 ### GenAI Ecosystem
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Replit](https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![Cursor](![banner-image-url](https://github.com/user-attachments/assets/b3061c10-887b-48e6-9cc5-8ff01164b54e)
-https://img.shields.io/badge/-Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Windsurfer](https://img.shields.io/badge/-Windsurfer-3399FF?style=for-the-badge&logoColor=white)
 <!--
