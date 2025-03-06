@@ -4,7 +4,12 @@
   <!-- This would be a custom banner with data visualization elements and AI themes -->
 </div>
 <h1 align="center">Hi 👋, I'm Sunny Patneedi</h1>
-<h3 align="center">Building prototypes for next-gen AI systems. AI/ML/Data engineer exploring agent architectures and LLM applications. Previously scaled systems at Apple, MSFT</h3>
+<h3 align="center">Building prototypes for next-gen AI systems, exploring agent architectures and LLM applications.</h3> 
+<h4 align="center">Previously, Engineering Leader at Apple, Microsoft & Salesforce. Expertise in building  AIML, Data, and scaling large-scale systems.</h4>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnypatneedi/)
+[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/sunnypatneedi)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://sunnypatneedi.substack.com/)
 
 # Exploring the Frontiers of AI & Machine Learning
 
@@ -19,7 +24,8 @@ Currently fascinated by:
 ### GenAI Ecosystem
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Replit](https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor](![banner-image-url](https://github.com/user-attachments/assets/b3061c10-887b-48e6-9cc5-8ff01164b54e)
+https://img.shields.io/badge/-Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Windsurfer](https://img.shields.io/badge/-Windsurfer-3399FF?style=for-the-badge&logoColor=white)
 <!--
@@ -85,6 +91,7 @@ Currently fascinated by:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![banner-image-url](https://github.com/user-attachments/assets/9c64f4b7-b0f1-492f-a98b-26ae92fb7ff8)
 
 ### Automation & Integration
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -104,7 +111,7 @@ I approach technical collaboration through a lens of methodical exploration and 
 - Contributing to projects advancing human-AI interfaces
 - Discussing the future of agent-based systems
 
-### Connect & Explore
+## Connect & Explore 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnypatneedi/)
 [![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/sunnypatneedi)
 [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://sunnypatneedi.substack.com/)
