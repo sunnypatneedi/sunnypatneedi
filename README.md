@@ -116,23 +116,23 @@ Currently exploring the intersection of business strategy and emerging technolog
 
 # Leadership Impact
 My approach to technology leadership is rooted in balancing visionary thinking with pragmatic execution:
-- **At Apple: Led AI/ML systems processing 100+ TB daily data, driving insights influencing product decisions across multiple business units. Implemented architectural improvements that reduced processing time by 40% while enhancing data quality.
-- **At Microsoft: Architected cross-platform solutions that unified disparate systems, creating a cohesive technology ecosystem that improved developer productivity by 35% and accelerated time-to-market.
-- **At Salesforce: Built ML-powered fraud detection systems that saved clients millions annually while maintaining exceptional customer experiences. Developed a strategic roadmap for AI adoption that became a blueprint for multiple enterprise products.
+- At Apple: Led AI/ML systems processing 100+ TB daily data, driving insights influencing product decisions across multiple business units. Implemented architectural improvements that reduced processing time by 40% while enhancing data quality.
+- At Microsoft: Architected cross-platform solutions that unified disparate systems, creating a cohesive technology ecosystem that improved developer productivity by 35% and accelerated time-to-market.
+- At Salesforce: Built ML-powered fraud detection systems that saved clients millions annually while maintaining exceptional customer experiences. Developed a strategic roadmap for AI adoption that became a blueprint for multiple enterprise products.
 
 # Strategic Collaborations
 I'm selective about partnerships that drive meaningful innovation:
 
-- **Advisory Roles: Guiding AI/ML startups on scalable architecture, product-market fit, and technical strategy
-- **Innovation Partnerships: Collaborating with research institutions on human-AI interface advancements
-- **Executive Mentorship: Supporting emerging technical leaders in developing both technical depth and strategic breadth
+- Advisory Roles: Guiding AI/ML startups on scalable architecture, product-market fit, and technical strategy
+- Innovation Partnerships: Collaborating with research institutions on human-AI interface advancements
+- Executive Mentorship: Supporting emerging technical leaders in developing both technical depth and strategic breadth
 
 # Connect & Explore 
 My approach to leadership and innovation is continuously evolving. Let's connect to discuss:
 
-- **Strategic AI adoption in enterprise environments
-- **Building technical organizations that balance innovation with execution
-- **The evolving role of technology leaders in shaping business strategy
+- Strategic AI adoption in enterprise environments
+- Building technical organizations that balance innovation with execution
+- The evolving role of technology leaders in shaping business strategy
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnypatneedi/)
 [![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/sunnypatneedi)
