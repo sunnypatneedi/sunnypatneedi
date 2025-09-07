@@ -1,11 +1,11 @@
 <!-- This is markdown for your README.md -->
 
-<div align="center">
+<!--div align="center">
   <img src="https://github.com/user-attachments/assets/b3061c10-887b-48e6-9cc5-8ff01164b54e" alt="AI/ML Engineering Leader" style="width:100%; max-height:200px; object-fit:cover;">
   <!-- This would be a custom banner with data visualization elements and AI themes -->
-</div>
+</div-->
 <h1 align="center">Hi 👋, I'm Sunny Patneedi</h1>
-<h3 align="center">Building prototypes for next-gen AI systems, exploring agent architectures and LLM applications.</h3> 
+<h3 align="center">SF-based full-stack + product engineer. Design-led builder of AI learning + creativity tools. Ex-Apple/Microsoft/Salesforce. Focus: Next.js, TypeScript, Tailwind, LLMs, RAG, Privacy, Memory, Evals, LangChain, design systems.</h3> 
 <h4 align="center">Previously, Engineering Leader at Apple, Microsoft & Salesforce. Expertise in building  AIML, Data, and scaling large-scale systems.</h4>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnypatneedi/)
