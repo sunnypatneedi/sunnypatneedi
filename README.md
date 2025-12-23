@@ -20,7 +20,7 @@
 
 ## 🚀 Current Work
 
-### [SayMake](https://askpuddle.com) — Founder & Technical Lead
+### [Puddle by SayMake](https://askpuddle.com) — Founder & Technical Lead
 > AI-powered parenting assistant
 
 **Built from scratch:**
