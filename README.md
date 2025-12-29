@@ -14,6 +14,8 @@
 
 **Building:** Privacy-first AI products (HIPPA, COPPA-compliant voice AI, hybrid RAG systems)
 
+**Expertise:** Agent orchestration • Privacy-first AI • Voice AI • Data systems at massive scale (150TB/day)
+
 **Experience:** 20+ years at Apple Maps, Salesforce, Microsoft building AI/ML platforms and data systems at scale
 
 ---
@@ -61,23 +63,38 @@
 ### **Current Stack (Last 12 Months)**
 
 ```yaml
-AI/ML:
-  - OpenAI, Claude, Gemini (LLM orchestration)
-  - ElevenLabs, LiveKit, Twilio (voice AI)
-  - pgvector + HNSW (hybrid RAG)
-  - Privacy-preserving AI patterns
+Agent Orchestration:
+  - Multi-provider abstraction (OpenAI, Claude, Gemini)
+  - Tool registration with approval gates
+  - Budget constraints and token tracking
+  - Streaming with async generators
 
-Backend:
-  - TypeScript, Python (primary)
-  - Supabase, PostgreSQL, Redis
-  - BullMQ (async job processing)
-  - OpenTelemetry, Prometheus (observability)
+Memory Systems:
+  - DDD architecture with bounded contexts
+  - Scoped memory (session, user, global)
+  - Conflict resolution strategies
+  - Hybrid vector+keyword search
+  - Memory outbox pattern (async ops)
 
-Frontend:
-  - React 19, Next.js
-  - React Native (mobile)
-  - Tailwind CSS
-  - TypeScript strict mode
+Prompt Engineering:
+  - Version-controlled in PostgreSQL
+  - Evaluation pipeline with golden tests
+  - Optimization: manual → DSPy → RLHF
+  - A/B testing infrastructure
+
+Safety & Compliance:
+  - Red-team evaluation (promptfoo)
+  - Multilingual attack corpora
+  - COPPA compliance by design
+  - PII tokenization and air-gap
+  - Retention policies and audit trails
+
+Voice AI:
+  - ElevenLabs conversational agents
+  - Twilio voice infrastructure
+  - <1s latency optimization
+  - Turn-taking, barge-in, VAD
+  - Session memory across calls
 ```
 
 ### **Production Experience (20 Years)**
@@ -87,41 +104,66 @@ Languages: TypeScript, Python, Java, Scala, Swift, C#, SQL
 Data/ML: Spark, Kafka, Hadoop, Snowflake, TensorFlow, PyTorch, scikit-learn
 Infrastructure: AWS, Kubernetes, Docker, Jenkins, Git, Streaming Pipelines
 Databases: PostgreSQL, Cassandra, Redis, pgvector
+Frontend: React, React Native, Next.js, Tailwind CSS
 ```
 
 ---
 
 ## 🎯 What I'm Best At
 
-### **1. Privacy-First AI Architecture**
-- **LLM air-gap pattern:** Tokenization → encrypted vault → detokenization
-- **COPPA compliance:** Consent tracking, retention policies, parental controls, audit trails
-- **Field-level data provenance:** Licensing tiers, automatic expiration
-- **Production observability:** PII redaction in logs, distributed tracing
+### **1. Production-Grade Agent Orchestration**
+- Multi-agent systems with provider abstraction
+- Tool execution with idempotency and approval gates
+- Budget management and token tracking
+- Streaming responses with backpressure handling
+- Observable: distributed tracing, correlation IDs, structured logging
 
-### **2. Voice AI Products**
-- **Conversational flows:** Greeting, turn-taking, VAD, barge-in
-- **Latency optimization:** <1s response time
-- **Multi-modal orchestration:** STT, LLM, TTS pipeline
-- **Session memory:** Context persistence across turns
+### **2. Sophisticated Memory Systems**
+- DDD-based architecture with bounded contexts
+- Scoped memory (session, user, global)
+- Conflict resolution (LatestWins, HighestConfidence)
+- Hybrid vector+keyword search (<50ms for 20M+ entries)
+- Memory lifecycle: embedding, summarization, decay
+- PII-aware with automatic redaction
 
-### **3. Large-Scale Data Systems**
-- **150TB/day ingestion** from thousands of providers
-- **Entity resolution** across 100M+ records, 23 identifier types
-- **Real-time streaming:** 1-2M events/sec with Kafka + Spark
-- **ML productionization:** Model evaluation, inference pipelines, monitoring
+### **3. AI Safety & Red-Teaming**
+- Promptfoo-based evaluation harness
+- Multilingual attack corpora (4+ languages)
+- Pre/post turn filters with COPPA mode
+- Policy tiers (balanced, permissive, safe)
+- CI gates: ≤0.1% leak rate, ≤2% false positives
+- Prompt injection defense at scale
 
-### **4. Hybrid RAG Systems**
-- **Vector search:** pgvector embeddings with HNSW indexing (<50ms for 20M docs)
-- **Structured filters:** Age, themes, location, availability
-- **Multi-signal ranking:** Semantic similarity + metadata + business rules
-- **Knowledge graphs:** Cross-domain entity traversal
+### **4. Privacy-First AI Architecture**
+- LLM air-gap pattern (PII never reaches model)
+- COPPA compliance: consent, retention, parental controls
+- Data provenance: BASE/OVERLAY/DERIVED tiers
+- Field-level licensing and expiration
+- Automatic PII tagging and tokenization
+- Audit trails for regulated domains
+
+### **5. Voice AI & Conversational Design**
+- ElevenLabs + Twilio integration
+- <1s latency across full pipeline (STT → LLM → TTS)
+- Conversational flows: greeting, turn-taking, barge-in
+- Session memory across multiple calls
+- Age-appropriate UX design
+- Multi-channel: voice, SMS, web, devices
+
+### **6. Large-Scale Data Systems**
+- 150TB/day ingestion from 1000+ providers (Apple)
+- Entity resolution across 100M+ records
+- Real-time streaming: 1-2M events/sec (Salesforce)
+- ML productionization: evaluation, inference, monitoring
+- Hybrid search: vector + structured filters
+- Knowledge graphs with cross-domain traversal
+
 
 ---
 
 ## 💡 Available For
 
-**Best-fit projects (4-8 weeks or 3-6 months, part-time):**
+**Building world class products with an incredible team:**
 
 ✅ **AI/LLM products:** Voice assistants, RAG systems, content moderation, regulated domains  
 ✅ **Privacy-first architecture:** COPPA, GDPR, HIPAA compliance from scratch  
@@ -140,7 +182,7 @@ Databases: PostgreSQL, Cassandra, Redis, pgvector
 🏆 **WWDC Featured:** Transit+Apple Pay integration (2022)  
 📄 **Patent:** Deep Learning for Security AI (USPTO/WIPO, Salesforce)  
 📝 **ThinkWeek Paper:** "Bing Pins" reviewed by President Qi Lu (Microsoft)  
-🚀 **Competitive Win:** First 3D Transit Maps, beat Google to market  
+🚀 **Competitive Win:** First 3D Transit Maps, beat Google to market (2021)  
 👥 **People Leadership:** Led multiple engineering teams to ship world's first 3D Transit maps
 📈 **Impact:** Contributed to Maps growth 200M → 800M users
 
@@ -189,9 +231,11 @@ Databases: PostgreSQL, Cassandra, Redis, pgvector
 
 **Best for:**
 - AI/LLM product development (0→1 or scaling)
+- Production-grade agent orchestration systems
 - Privacy-first architecture (COPPA, GDPR, HIPAA)
 - Data/ML systems at scale
 - Voice AI and conversational interfaces
+- AI safety and evaluation
 - Complex technical unblocking (senior IC)
 
 ---
