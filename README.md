@@ -1,4 +1,4 @@
-<h1 align="center">👋 Sunny Patneedi</h1>
+<h1 align="center">Sunny Patneedi</h1>
 
 <h3 align="center">Senior AI/ML/Data Engineer • 20+ Years at Scale • Building Privacy-First AI Products</h3>
 
