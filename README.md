@@ -1,6 +1,6 @@
 <h1 align="center">Sunny Patneedi</h1>
 
-<h3 align="center">Senior AI/ML/Data Engineer • 20+ Years at Scale • Building Privacy-First AI Products</h3>
+<h3 align="center">Founder • 20+ Years Shipping at Scale • Building Privacy-First AI Powered Products</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sunnypatneedi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -22,15 +22,36 @@
 
 ## 🚀 Current Work
 
-### Puddle by SayMake — Founder & Technical Lead
-> AI-powered parenting assistant
+### Puddle — Founder & CEO
+> Helping Parents Nuture Curious Children. Living Trajectory System + Proactive Tracking
+### Projects
+- **[AgentStellar](https://www.agentstellar.dev)** Interactive AI learning platform with guided courses
+- **[CareStellar](https://www.carestellar.com)** Caregiving coordination and management tools
+- **[ContextStellar](https://www.contextstellar.com)** AI prompt optimizer that cuts token waste instantly
+- **[DataStellar](https://www.datastellar.dev)** Data Skills for humans & AI agents
+- **[FoodStellar](https://www.foodstellar.com)** Discover unexpected delightful recommendations
+- **[NourishStellar](https://www.nourishstellar.com)** Nutrition tracking and guidance
+- **[ParentStellar](https://www.parentstellar.com)** Parenting resources and milestone tracking
+- **[ResumeStellar](https://www.resumestellar.com)** AI-powered resume tailoring and generation
+- **[SessionStellar](https://www.sessionstellar.com)** Sessions are the new Resume. Measure, Learn and Assess
+- **[ThriveStellar](https://www.thrivestellar.com)** Personal wellness and habit tracking
+- **[TravelStellar](https://www.thrivestellar.com)** AI-powered travel planning and booking
+- **[DecadeDirector](https://www.decadedirector.com)** Plan your life in decades
+- **[FridgeToGallery](https://www.fridgetogallery.com)** Turn kids' fridge art into gallery prints
+- **[Meduler](https://www.meduler.com)** Medication scheduling and reminder app
+- **[MinusOneLabs](www.minusonelabs.com)** Solo-founder product studio
+- **[RHBS](https://www.rhbs.app)** Track resting heart rate trends before sleep
+- **[TreeTalk](https://www.treetalk.family)** Record and store your family stories and health history privately
+- **[VelocityCoding](https://www.velocitycoding.dev)** Build fast and confidently in the new AI era
+- **[WowByDesign](https://www.wowbydesign.com)** Collection of design skills for humans & AI agents
 
-**Built from scratch:**
-- **Privacy-first AI architecture:** LLM air-gap pattern — PII never reaches third-party models (COPPA-compliant)
-- **Voice AI system:** ElevenLabs + Twilio conversational agents, <1s latency, session memory, barge-in support
-- **Hybrid RAG search:** pgvector embeddings + HNSW indexing + structured filters 
-- **Data architecture:** Entity registry spine enabling cross-domain recommendations
-- **Data provenance:** Licensing tiers with field-level compliance tracking
+### Open Source Projects
+- **[AI Skills](https://github.com/sunnypatneedi/skills)**
+- **[claude-starter-kit](https://github.com/sunnypatneedi/claude-starter-kit)** Your AI Team Ready To Go
+- **[MCRS](https://github.com/sunnypatneedi/MCRS)** Medication Consensus Resolution Squad (MCRS) Data Specification
+- **[ORFS](https://github.com/sunnypatneedi/ORFS)** Open Restaurant Feed Specification
+- **[SPEAR](https://github.com/sunnypatneedi/spear)** Secure Prompt Enforcement At Runtime
+- **[Voice101.ai](https://github.com/sunnypatneedi/voice101-ai)** www.voice101.ai
 
 ---
 
