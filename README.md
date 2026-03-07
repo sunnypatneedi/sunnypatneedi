@@ -17,23 +17,23 @@
 > Helping Parents Nuture Curious Children. Living Trajectory System + Proactive Tracking
 ### Projects
 - **[AgentStellar](https://www.agentstellar.dev)** Interactive AI learning platform with guided courses
-- **[CareStellar](https://www.carestellar.com)** Caregiving coordination and management tools
+<!-- - **[CareStellar](https://www.carestellar.com)** Caregiving coordination and management tools -->
 - **[ContextStellar](https://www.contextstellar.com)** AI prompt optimizer that cuts token waste instantly
-- **[DataStellar](https://www.datastellar.dev)** Data Skills for humans & AI agents
-- **[FoodStellar](https://www.foodstellar.com)** Discover unexpected delightful recommendations
+<!-- - **[DataStellar](https://www.datastellar.dev)** Data Skills for humans & AI agents -->
+<!-- - **[FoodStellar](https://www.foodstellar.com)** Discover unexpected delightful recommendations -->
 - **[NourishStellar](https://www.nourishstellar.com)** Nutrition tracking and guidance
-- **[ParentStellar](https://www.parentstellar.com)** Parenting resources and milestone tracking
+<!-- - **[ParentStellar](https://www.parentstellar.com)** Parenting resources and milestone tracking -->
 - **[ResumeStellar](https://www.resumestellar.com)** AI-powered resume tailoring and generation
 - **[SessionStellar](https://www.sessionstellar.com)** Sessions are the new Resume. Measure, Learn and Assess
-- **[ThriveStellar](https://www.thrivestellar.com)** Personal wellness and habit tracking
+<!-- - **[ThriveStellar](https://www.thrivestellar.com)** Personal wellness and habit tracking -->
 - **[TravelStellar](https://www.thrivestellar.com)** AI-powered travel planning and booking
 - **[DecadeDirector](https://www.decadedirector.com)** Plan your life in decades
-- **[FridgeToGallery](https://www.fridgetogallery.com)** Turn kids' fridge art into gallery prints
+<!-- - **[FridgeToGallery](https://www.fridgetogallery.com)** Turn kids' fridge art into gallery prints -->
 - **[Meduler](https://www.meduler.com)** Medication scheduling and reminder app
-- **[MinusOneLabs](www.minusonelabs.com)** Solo-founder product studio
-- **[RHBS](https://www.rhbs.app)** Track resting heart rate trends before sleep
+- **[MinusOneLabs](https://www.minusonelabs.com)** Solo-founder product studio
+<!-- - **[RHBS](https://www.rhbs.app)** Track resting heart rate trends before sleep -->
 - **[TreeTalk](https://www.treetalk.family)** Record and store your family stories and health history privately
-- **[VelocityCoding](https://www.velocitycoding.dev)** Build fast and confidently in the new AI era
+<!-- - **[VelocityCoding](https://www.velocitycoding.dev)** Build fast and confidently in the new AI era -->
 - **[WowByDesign](https://www.wowbydesign.com)** Collection of design skills for humans & AI agents
 
 ### Open Source Projects
