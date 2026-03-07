@@ -19,31 +19,37 @@
 ---
 
 ## 🚀 Current Work
-
 ### Puddle — Founder & CEO [www.askpuddle.com](https://www.askpuddle.com)
 > Helping Parents Nuture Curious Children. Living Trajectory System + Proactive Tracking
 ### Projects
+#### AI & Engineering
 - **[AgentStellar](https://www.agentstellar.dev)** Interactive AI learning platform with guided courses
-<!-- - **[CareStellar](https://www.carestellar.com)** Caregiving coordination and management tools -->
-<!-- - **[DataStellar](https://www.datastellar.dev)** Data Skills for humans & AI agents -->
-<!-- - **[FoodStellar](https://www.foodstellar.com)** Discover unexpected delightful recommendations -->
-- **[NourishStellar](https://www.nourishstellar.com)** Nutrition tracking and guidance
-<!-- - **[ParentStellar](https://www.parentstellar.com)** Parenting resources and milestone tracking -->
-- **[ResumeStellar](https://www.resumestellar.com)** AI-powered resume tailoring and generation
-
+- **[AgentMa](https://agentma.replit.app/)** Agent Observability and Management
 - **[SessionStellar](https://www.sessionstellar.com)** Sessions are the new Resume. Measure, Learn and Assess
-<!-- - **[ThriveStellar](https://www.thrivestellar.com)** Personal wellness and habit tracking -->
-- **[TravelStellar](https://www.thrivestellar.com)** AI-powered travel planning and booking
-
-- **[DecadeDirector](https://www.decadedirector.com)** Plan your life in decades
-<!-- - **[FridgeToGallery](https://www.fridgetogallery.com)** Turn kids' fridge art into gallery prints -->
-- **[Meduler](https://www.meduler.com)** Medication scheduling and reminder app
-
-- **[MinusOneLabs](https://www.minusonelabs.com)** Solo-founder product studio
-<!-- - **[RHBS](https://www.rhbs.app)** Track resting heart rate trends before sleep -->
-- **[TreeTalk](https://www.treetalk.family)** Record and store your family stories and health history privately
-<!-- - **[VelocityCoding](https://www.velocitycoding.dev)** Build fast and confidently in the new AI era -->
 - **[WowByDesign](https://www.wowbydesign.com)** Collection of design skills for humans & AI agents
+<!-- - **[DataStellar](https://www.datastellar.dev)** Data Skills for humans & AI agents -->
+<!-- - **[VelocityCoding](https://www.velocitycoding.dev)** Helping engineers to build fast and confidently in the new AI era -->
+<!-- #### Learning/Education-->
+<!-- - **[FridgeToGallery](https://www.fridgetogallery.com)** Turn kids' fridge art into gallery prints & give them an AI art tutor-->
+<!-- - **[NextRep](https://www.nextrep.replit.app)** Generate similar and advanced homework worksheets to practice and learn through repetition. -->
+<!-- - **[TeachWithImages](https://www.teachwithimage.replit.app)** A visual learning app for K-12 educational content, filterable by age and domain. -->
+#### Health
+- **[Meduler](https://www.meduler.com)** Medication scheduling and reminder app
+<!-- - **[CareStellar](https://www.carestellar.com)** Caregiving coordination and management tools -->
+<!-- - **[RHBS](https://www.rhbs.app)** Track resting heart rate trends before sleep -->
+<!-- - **[ThriveStellar](https://www.thrivestellar.com)** Personal wellness and habit tracking -->
+#### Travel & Food
+- **[NourishStellar](https://www.nourishstellar.com)** Nutrition tracking and guidance
+- **[TravelStellar](https://www.thrivestellar.com)** AI-powered travel planning and booking
+<!-- - **[TasteStellar](https://www.foodstellar.com)** Discover unexpected delightful recommendations -->
+<!-- - **[FoodStellar](https://www.foodstellar.com)** Discover unexpected delightful recommendations -->
+#### Misc
+- **[ResumeStellar](https://www.resumestellar.com)** AI-powered resume tailoring and generation
+- **[DecadeDirector](https://www.decadedirector.com)** Plan your life in decades
+- **[MinusOneLabs](https://www.minusonelabs.com)** Solo-founder product studio
+- **[TreeTalk](https://www.treetalk.family)** Record and store your family stories and health history privately
+<!-- - **[ParentStellar](https://www.parentstellar.com)** Parenting resources and milestone tracking -->
+<!-- - **[TimelessTogether](https://www.timelesstogether.replit.app)** Your parent/grandparent stays the same, while you can scroll through how you might look together in future decades -->
 
 ### Open Source Projects
 - **[AI Skills](https://github.com/sunnypatneedi/skills)** AI skills to help you with any AI agent
