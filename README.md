@@ -1,14 +1,5 @@
 <h1 align="center">Sunny Patneedi</h1>
-
 <h3 align="center">Founder • 20+ Years Shipping at Scale • Building Privacy-First AI Powered Products</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sunnypatneedi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/sunnypatneedi"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://sunnypatneedi.substack.com"><img src="https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white" /></a>
-</p>
-
----
 
 ## 🎯 What I Do
 
@@ -22,7 +13,7 @@
 
 ## 🚀 Current Work
 
-### Puddle — Founder & CEO
+### Puddle — Founder & CEO [www.askpuddle.com](https://www.askpuddle.com)
 > Helping Parents Nuture Curious Children. Living Trajectory System + Proactive Tracking
 ### Projects
 - **[AgentStellar](https://www.agentstellar.dev)** Interactive AI learning platform with guided courses
@@ -46,12 +37,12 @@
 - **[WowByDesign](https://www.wowbydesign.com)** Collection of design skills for humans & AI agents
 
 ### Open Source Projects
-- **[AI Skills](https://github.com/sunnypatneedi/skills)**
+- **[AI Skills](https://github.com/sunnypatneedi/skills)** AI skills to help you with any AI agent
 - **[claude-starter-kit](https://github.com/sunnypatneedi/claude-starter-kit)** Your AI Team Ready To Go
 - **[MCRS](https://github.com/sunnypatneedi/MCRS)** Medication Consensus Resolution Squad (MCRS) Data Specification
 - **[ORFS](https://github.com/sunnypatneedi/ORFS)** Open Restaurant Feed Specification
 - **[SPEAR](https://github.com/sunnypatneedi/spear)** Secure Prompt Enforcement At Runtime
-- **[Voice101.ai](https://github.com/sunnypatneedi/voice101-ai)** www.voice101.ai
+- **[Voice101.ai](https://github.com/sunnypatneedi/voice101-ai)** www.voice101.ai Get started with Voice AI fundamentals
 
 ---
 
@@ -195,6 +186,16 @@ Frontend: React, React Native, Next.js, Tailwind CSS
 - Children's products (COPPA expertise)
 - Healthcare (privacy-sensitive data)
 - Consumer AI products (voice, agents, RAG)
+
+---
+## Connect
+<p align="center">
+  <a href="https://linkedin.com/in/sunnypatneedi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/sunnypatneedi"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.sunnypatneedi.com"><img src="https://img.shields.io/badge/-Website-4CAF50?style=flat-square" /></a>
+  <a href="https://github.com/sunnypatneedi"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://sunnypatneedi.substack.com"><img src="https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white" /></a>
+</p>
 
 ---
 
