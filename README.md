@@ -24,12 +24,15 @@
 - **[NourishStellar](https://www.nourishstellar.com)** Nutrition tracking and guidance
 <!-- - **[ParentStellar](https://www.parentstellar.com)** Parenting resources and milestone tracking -->
 - **[ResumeStellar](https://www.resumestellar.com)** AI-powered resume tailoring and generation
+
 - **[SessionStellar](https://www.sessionstellar.com)** Sessions are the new Resume. Measure, Learn and Assess
 <!-- - **[ThriveStellar](https://www.thrivestellar.com)** Personal wellness and habit tracking -->
 - **[TravelStellar](https://www.thrivestellar.com)** AI-powered travel planning and booking
+
 - **[DecadeDirector](https://www.decadedirector.com)** Plan your life in decades
 <!-- - **[FridgeToGallery](https://www.fridgetogallery.com)** Turn kids' fridge art into gallery prints -->
 - **[Meduler](https://www.meduler.com)** Medication scheduling and reminder app
+
 - **[MinusOneLabs](https://www.minusonelabs.com)** Solo-founder product studio
 <!-- - **[RHBS](https://www.rhbs.app)** Track resting heart rate trends before sleep -->
 - **[TreeTalk](https://www.treetalk.family)** Record and store your family stories and health history privately
