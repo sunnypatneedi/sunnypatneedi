@@ -25,7 +25,6 @@
 ### Projects
 - **[AgentStellar](https://www.agentstellar.dev)** Interactive AI learning platform with guided courses
 <!-- - **[CareStellar](https://www.carestellar.com)** Caregiving coordination and management tools -->
-- **[ContextStellar](https://www.contextstellar.com)** AI prompt optimizer that cuts token waste instantly
 <!-- - **[DataStellar](https://www.datastellar.dev)** Data Skills for humans & AI agents -->
 <!-- - **[FoodStellar](https://www.foodstellar.com)** Discover unexpected delightful recommendations -->
 - **[NourishStellar](https://www.nourishstellar.com)** Nutrition tracking and guidance
@@ -49,6 +48,7 @@
 ### Open Source Projects
 - **[AI Skills](https://github.com/sunnypatneedi/skills)** AI skills to help you with any AI agent
 - **[claude-starter-kit](https://github.com/sunnypatneedi/claude-starter-kit)** Your AI Team Ready To Go
+- **[ContextStellar](https://github.com/sunnypatneedi/contextstellar-js)** AI prompt optimizer that cuts token waste instantly
 - **[MCRS](https://github.com/sunnypatneedi/MCRS)** Medication Consensus Resolution Squad (MCRS) Data Specification
 - **[ORFS](https://github.com/sunnypatneedi/ORFS)** Open Restaurant Feed Specification
 - **[SPEAR](https://github.com/sunnypatneedi/spear)** Secure Prompt Enforcement At Runtime
