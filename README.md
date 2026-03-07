@@ -1,5 +1,12 @@
 <h1 align="center">Sunny Patneedi</h1>
 <h3 align="center">Founder • 20+ Years Shipping at Scale • Building Privacy-First AI Powered Products</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/sunnypatneedi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/sunnypatneedi"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.sunnypatneedi.com"><img src="https://img.shields.io/badge/-Website-4CAF50?style=flat-square" /></a>
+  <a href="https://github.com/sunnypatneedi"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://sunnypatneedi.substack.com"><img src="https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white" /></a>
+</p>
 
 ## 🎯 What I Do
 
@@ -48,7 +55,6 @@
 - **[Voice101.ai](https://github.com/sunnypatneedi/voice101-ai)** www.voice101.ai Get started with Voice AI fundamentals
 
 ---
-
 ## 💼 What I've Built at Scale
 
 ### **Apple Maps** (7 years)
@@ -191,16 +197,6 @@ Frontend: React, React Native, Next.js, Tailwind CSS
 - Consumer AI products (voice, agents, RAG)
 
 ---
-## Connect
-<p align="center">
-  <a href="https://linkedin.com/in/sunnypatneedi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/sunnypatneedi"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://www.sunnypatneedi.com"><img src="https://img.shields.io/badge/-Website-4CAF50?style=flat-square" /></a>
-  <a href="https://github.com/sunnypatneedi"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://sunnypatneedi.substack.com"><img src="https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white" /></a>
-</p>
-
----
 
 ## 📊 Notable Achievements
 
@@ -210,14 +206,6 @@ Frontend: React, React Native, Next.js, Tailwind CSS
 🚀 **Competitive Win:** First 3D Transit Maps, beat Google to market (2021)  
 👥 **People Leadership:** Led multiple engineering teams to ship world's first 3D Transit maps
 📈 **Impact:** Contributed to Maps growth 200M → 800M users
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatneedi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
 
 ---
 
@@ -247,12 +235,6 @@ Frontend: React, React Native, Next.js, Tailwind CSS
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 ---
-
-## 📬 Let's Connect
-
-**For opportunities:**
-- 💼 LinkedIn: [linkedin.com/in/sunnypatneedi](https://linkedin.com/in/sunnypatneedi)
-- 🐦 X/Twitter: [@sunnypatneedi](https://x.com/sunnypatneedi)
 
 **Best for:**
 - AI/LLM product development (0→1 or scaling)
