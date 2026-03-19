@@ -53,7 +53,7 @@
 
 ### Open Source Projects
 - **[AI Skills](https://github.com/sunnypatneedi/skills)** AI skills to help you with any AI agent
-- **[AI Skills](https://github.com/sunnypatneedi/alto.git)** Aerial Logistics & Transit Open-standard for to improve interoperability and reduce fragmentation in aerial transport systems 
+- **[ALTO](https://github.com/sunnypatneedi/alto.git)** Aerial Logistics & Transit Open-standard for to improve interoperability and reduce fragmentation in aerial transport systems 
 - **[claude-starter-kit](https://github.com/sunnypatneedi/claude-starter-kit)** Your AI Team Ready To Go
 - **[ContextStellar](https://github.com/sunnypatneedi/contextstellar-js)** AI prompt optimizer that cuts token waste instantly
 - **[MCRS](https://github.com/sunnypatneedi/MCRS)** Medication Consensus Resolution Squad (MCRS) Data Specification
