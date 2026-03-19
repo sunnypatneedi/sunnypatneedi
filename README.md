@@ -69,7 +69,7 @@
 - Launched **world's first 3D Transit Maps**, beating Google to market
 - Shipped **ML models to production:** POI Hours prediction, Closure detection (75-95% precision)
 - **WWDC-featured work:** Led Transit+Apple Pay, EV routing (iOS 13-16 tentpole Apple maps releases)
-- Improved data pipeline **throughput 50%** through Spark optimization
+- Improved data pipeline **throughput 50%**
 - Contributed to Maps growth: **200M → 800M users**
 
 ### **Salesforce** (2.5 years)
