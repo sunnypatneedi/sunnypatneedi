@@ -14,12 +14,12 @@
 
 **Expertise:** Agent orchestration • Privacy-first AI • Voice AI • Data systems at massive scale (150TB/day)
 
-**Experience:** 20+ years at Apple Maps, Salesforce, Microsoft building AI/ML platforms and data systems at scale
+**Experience:** 20+ years at Apple, Salesforce, Microsoft building AI/ML platforms and data systems at scale
 
 ---
 
 ## 🚀 Current Work
-### Puddle — Founder & CEO [www.askpuddle.com](https://www.askpuddle.com)
+### SayMake/Puddle — CEO & Co-Founder [www.saymake.co](https://www.saymake.co) [www.askpuddle.com](https://www.askpuddle.com)
 > Helping Parents Nuture Curious Children. Living Trajectory System + Proactive Tracking
 ### Projects
 #### AI & Engineering
