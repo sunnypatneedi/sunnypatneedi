@@ -1,0 +1,21 @@
+@font-face{font-family:"ArchivoN";font-weight:500;src:url(/node_modules/@fontsource/archivo-narrow/files/archivo-narrow-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:"ArchivoN";font-weight:700;src:url(/node_modules/@fontsource/archivo-narrow/files/archivo-narrow-latin-700-normal.woff2) format("woff2")}
+@font-face{font-family:"Fraun";font-style:italic;font-weight:300;src:url(/node_modules/@fontsource/fraunces/files/fraunces-latin-300-italic.woff2) format("woff2")}
+@font-face{font-family:"Fraun";font-style:italic;font-weight:500;src:url(/node_modules/@fontsource/fraunces/files/fraunces-latin-500-italic.woff2) format("woff2")}
+html,body,#stage{background:#F5F2EA}
+#grain,#vignette,#flash{display:none}
+#cv{position:absolute;left:0;top:0;width:1200px;height:630px}
+#paper{position:absolute;inset:0;mix-blend-mode:multiply;opacity:.55;pointer-events:none;z-index:40}
+.scene{color:#20242B}
+.tb{position:absolute;left:36px;bottom:36px;background:#F5F2EA;border:1.5px solid #20242B;padding:9px 16px 8px 14px;font:700 22px/1 "ArchivoN";letter-spacing:.14em;text-transform:uppercase;display:flex;gap:14px;align-items:center}
+.tb i{display:block;width:14px;height:14px;background:#F26A1B;border:1.5px solid #20242B}
+.q{position:absolute;left:512px;top:118px;font:300 italic 74px/1.04 "Fraun";letter-spacing:-.015em;white-space:nowrap}
+.q span{display:inline-block;opacity:0}
+.q .or{color:#20242B;font-weight:500}
+.qm{position:absolute;left:462px;top:92px;font:500 italic 120px/1 "Fraun";color:#F26A1B;opacity:0}
+.an{position:absolute;left:540px;top:442px;font:500 italic 31px/1.2 "Fraun";white-space:nowrap;opacity:0}
+.name{position:absolute;left:52px;top:64px;font:700 176px/.84 "ArchivoN";letter-spacing:-.02em;text-transform:uppercase;white-space:nowrap}
+.name div{opacity:0}
+.roles{position:absolute;left:58px;top:412px;font:500 25px/1.36 "ArchivoN";letter-spacing:.02em;white-space:nowrap;opacity:0}
+.roles b{font-weight:700}
+.belief{position:absolute;left:58px;top:522px;font:500 italic 27px/1.2 "Fraun";white-space:nowrap;opacity:0}
