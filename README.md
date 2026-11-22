@@ -1,58 +1,45 @@
 # Sunny Patneedi
 
-**Founder of [SayMake](https://saymake.app) · Human–AI learning systems · Open standards, agent infrastructure, and AI safety**
+**AI product builder · Engineering leader · Founder of [SayMake](https://saymake.app)**
 
-I build AI-supported, project-based learning that helps young people turn what they care about into real-world capability—the skills, earned confidence, and agency to shape what happens next.
+I turn ambiguous opportunities into working AI products, combining product discovery, hands-on engineering, and rigorous evaluation. I do my best work on zero-to-one problems: exploring many ideas, narrowing to the best bet, and taking it all the way to production.
 
-> **What kids build changes who they become.**
->
-> **AI should scaffold thinking, not surrender it.**
+I spent seven years leading three engineering teams at Apple Maps, building large-scale data and ML systems. Earlier, I helped build products and intelligent systems at Microsoft and Salesforce. Now I build AI-native products for learning and dependable agents.
 
-## What I'm building
+## What I build
 
-| Project | Purpose |
+- **Full-stack AI products:** React, TypeScript, Node.js, and Postgres, from first prototype to production.
+- **Multi-agent workflows:** shared memory, evaluation rubrics, tool orchestration, and human-in-the-loop review.
+- **Large-scale data systems:** distributed pipelines, data quality, and ML evaluation.
+
+## Selected work
+
+| Project | What it is |
 | --- | --- |
-| [SayMake](https://saymake.app) | An AI-supported maker studio where kids turn personal interests and real problems into projects they can build, test, explain, and improve. |
+| Apple Maps | Led teams across Transit, Places, and EV Routing through multiple WWDC releases: Transit cards and fares, EV routing in Maps and CarPlay, and 3D Maps, delivered with Wallet, Apple Pay, Siri, and CarPlay. Ran the production rollout of place-closure ML models, evaluated with human raters. |
+| [SayMake](https://saymake.app) | An AI-supported maker studio where kids turn their interests into projects they build, test, explain, and improve. In private preview. |
+| [SPEAR](https://github.com/sunnypatneedi/spear) | Defense-in-depth security middleware for LLM and agent pipelines: prompt-injection defense, provenance, tool mediation, and output protection. |
 | [OMBS](https://github.com/sunnypatneedi/ombs) | The Open Making and Building Standard: an openly licensed, machine-readable framework for making the learning behind real projects visible. |
-| [SPEAR](https://github.com/sunnypatneedi/spear) | Defense-in-depth security middleware for LLM and agent pipelines, including prompt-injection defense, provenance, tool mediation, and output protection. |
 
-## Questions I work on
+## Open source
 
-- Does an AI system leave the person more capable after assistance?
-- Which decisions should remain with the learner, and which should AI support?
-- How can we distinguish an impressive artifact from demonstrated human capability?
-- How should AI assistance adapt, fade, and preserve meaningful agency?
-- How can we prove that lower cost and greater automation did not reduce quality?
-- How can project evidence become portable across tools, schools, and contexts?
+- [Claude Starter Kit](https://github.com/sunnypatneedi/claude-starter-kit): reusable agents, skills, hooks, and MCP configurations for practical AI-assisted work
+- [ContextStellar](https://github.com/sunnypatneedi/contextstellar-js): context observability and prompt-efficiency tooling for LLM applications
+- [SessionStellar](https://github.com/sunnypatneedi/sessionstellar-js): evaluation and scoring infrastructure for agent orchestration quality
+- [AI Skills](https://github.com/sunnypatneedi/skills): reusable workflows for structured thinking, project hygiene, and AI-agent operation
 
-## Selected open source
+## Domains
 
-- [Claude Starter Kit](https://github.com/sunnypatneedi/claude-starter-kit) — reusable agents, skills, hooks, and MCP configurations for practical AI-assisted work
-- [ContextStellar](https://github.com/sunnypatneedi/contextstellar-js) — context observability and prompt-efficiency tooling for LLM applications
-- [SessionStellar](https://github.com/sunnypatneedi/sessionstellar-js) — evaluation and scoring infrastructure for agent orchestration quality
-- [AI Skills](https://github.com/sunnypatneedi/skills) — reusable workflows for structured thinking, project hygiene, and AI-agent operation
+Education and EdTech · Maps and location data · CRM · Autonomous agents and software factories · Consumer apps and web products. Also curious about digital health.
 
-## Background
+## Skills
 
-Before founding SayMake, I spent two decades building software, data, and machine-learning systems at Apple, Microsoft, and Salesforce.
-
-That experience shaped how I approach AI learning systems: as products that require strong architecture, observability, evaluation, safety, privacy, and evidence—not merely compelling model output.
-
-## Current focus
-
-My work sits at the intersection of:
-
-- Human–AI collaboration
-- AI-supported project-based learning
-- Learner agency and competency development
-- AI evaluation and verification
-- Agent harnesses and context engineering
-- Safety, privacy, and local-first systems
-- Open standards for capability evidence
+Agent orchestration · Multi-agent systems · Model evaluation · TypeScript · React · Node.js · PostgreSQL · Distributed data systems · Apache Spark · Scala · Java · Product strategy · Engineering management
 
 ## Connect
 
 [Website](https://sunnypatneedi.com) ·
-[SayMake](https://saymake.app) ·
 [LinkedIn](https://linkedin.com/in/sunnypatneedi) ·
-[Writing](https://sunnypatneedi.substack.com)
+[Recommendations](https://www.linkedin.com/in/sunnypatneedi/details/recommendations/) ·
+[Writing](https://sunnypatneedi.substack.com) ·
+[SayMake](https://saymake.app)
