@@ -40,5 +40,6 @@ Agent orchestration · Multi-agent systems · Model evaluation · TypeScript · 
 
 [Website](https://sunnypatneedi.com) ·
 [LinkedIn](https://linkedin.com/in/sunnypatneedi) ·
+[Recommendations](https://www.linkedin.com/in/sunnypatneedi/details/recommendations/) ·
 [Writing](https://sunnypatneedi.substack.com) ·
 [SayMake](https://saymake.app)
